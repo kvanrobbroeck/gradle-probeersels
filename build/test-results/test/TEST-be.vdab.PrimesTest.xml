@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="be.vdab.PrimesTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-06-19T12:31:10" hostname="WP2783" time="0.001">
+  <properties/>
+  <testcase name="negativeNumbersAreNotPrimes" classname="be.vdab.PrimesTest" time="0.001"/>
+  <testcase name="primeNumberReturnsFalseIfValueIsNotPrime" classname="be.vdab.PrimesTest" time="0.0"/>
+  <testcase name="oneIsNotAPrime" classname="be.vdab.PrimesTest" time="0.0"/>
+  <testcase name="primeNumberReturnsTrueIfValueIsPrime" classname="be.vdab.PrimesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
