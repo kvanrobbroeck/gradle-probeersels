@@ -12,7 +12,9 @@ public class Lotto {
      * Startpunt, voert 100 lotto trekkingen uit.
      */
     public static void main(String[] args) {
-        System.out.println("Welcome " + args[0]);
+        if(args.length > 0) {
+            System.out.println("Welcome " + args[0]);
+        }
         for(int i = 0; i < 100; i++) {
             int[] trekking = voerTrekkingUit(1, 45);
             printTrekking(trekking);
